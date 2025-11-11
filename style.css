@@ -1,1 +1,12 @@
-
+.flexbox {
+    display: flex;
+    border: 2px solid rgb(16, 214, 16);
+    padding: 20px;
+}
+.item {
+    border: 2px solid red;
+    padding: 20px;
+}
+#box1 {
+    justify-content:space-evenly
+}
