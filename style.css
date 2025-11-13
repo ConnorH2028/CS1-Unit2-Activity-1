@@ -8,5 +8,18 @@
     padding: 20px;
 }
 #box1 {
-    justify-content:space-evenly
+    justify-content:space-evenly;
+    background: darkblue;
+}
+
+#box2, #box3, #box4{
+    justify-content:center;
+}
+
+#box3 {
+    background: rgb(176, 217, 246);
+}
+
+#innerbox4 {
+    background: skyblue;
 }
